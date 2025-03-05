@@ -1,0 +1,15 @@
+apiVersion: v2
+appVersion: "1.0.0"
+description: A Helm chart to deploy Velero notifications controller
+name: velero-notifications
+version: 1.1.0
+home: https://github.com/simoncaron/velero-notifications
+maintainers:
+  - name: simoncaron
+    email: simon.caron.8@gmail.com
+    url: "https://github.com/simoncaron"
+sources:
+  - https://github.com/simoncaron/velero-notifications
+icon: https://cdn-images-1.medium.com/max/1600/1*-9mb3AKnKdcL_QD3CMnthQ.png
+keywords:
+  - velero
